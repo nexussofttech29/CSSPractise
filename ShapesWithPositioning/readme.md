@@ -1,0 +1,1 @@
+This code demonstrates the way to make different shapes like rectangle, square, circles etc. Most of the modern day designs require you to position the shapes based on absolute, fixed positioning for background, the same has been implemented in this code. 
